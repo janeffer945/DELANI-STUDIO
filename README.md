@@ -6,4 +6,7 @@
      html
      css (boostrap)
       Javascript
-      
+## Requirements
+     JsFiddle
+     Javascript console
+       
