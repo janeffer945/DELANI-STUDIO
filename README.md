@@ -15,7 +15,7 @@
 ## Link to live site
 "https://janeffer945.github.io/DELANI-STUDIO/"
 ## License
-  *MIT*
+  *MIT LICENSE*
   
 
 
