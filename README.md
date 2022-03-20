@@ -11,6 +11,7 @@
      Javascript console
 ## Setup Instructions and Installation
    clone this repository to a location in your file system.
+   "https://github.com/janeffer945/DELANI-STUDIO.git"
    
 
 
