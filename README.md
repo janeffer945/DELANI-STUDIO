@@ -13,6 +13,7 @@
    clone this repository to a location in your file system.
    "https://github.com/janeffer945/DELANI-STUDIO.git"
 ## Link to live site
+"https://janeffer945.github.io/DELANI-STUDIO/"
 
    
    
