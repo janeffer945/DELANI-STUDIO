@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
 }
-.hero{
+.heading{
     background: url(images/jen1.jpg );
     background-size: cover;
     background-position: relative;
@@ -11,7 +11,7 @@
     height: 110vh;
     width: 100%;
 }
-.hero-content h2,.hero-content{
+.heading-content h2,.hero-content{
     font-size: 60px;
 }
 .mouse{
