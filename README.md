@@ -14,6 +14,8 @@
    "https://github.com/janeffer945/DELANI-STUDIO.git"
 ## Link to live site
 "https://janeffer945.github.io/DELANI-STUDIO/"
+## License
+
 
    
    
