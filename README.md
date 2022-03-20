@@ -10,6 +10,8 @@
      JsFiddle
      Javascript console
 ## Setup Instructions and Installation
+   clone this repository to a location in your file system.
+   
 
 
        
